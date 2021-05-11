@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
         <div>
-          <h2>Prime Number Generator</h2>
+          <h2>Prime Number Generator!!!</h2>
           <input type="number" 
               placeholder="Enter Number" 
               onChange={(e) => setNumber(e.target.value)}
